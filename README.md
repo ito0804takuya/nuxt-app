@@ -1,5 +1,9 @@
 # nuxt-app
 
+## バージョン
+Nuxt : @nuxt/cli v2.15.8
+Vue : 2.7.14
+
 ## Build Setup
 
 ```bash
